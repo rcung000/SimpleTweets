@@ -20,7 +20,13 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='' title='' width=''/>
+<img src='https://github.com/rcung000/SimpleTweets/blob/main/SimpleTweet_Login.gif' title='Login' width=''/>
+
+<img src='https://github.com/rcung000/SimpleTweets/blob/main/SimpleTweet_viewTweets.gif' title='View Tweets' width=''/>
+
+<img src='https://github.com/rcung000/SimpleTweets/blob/main/SimpleTweet_Refresh.gif' title='Refresh' width=''/>
+
+<img src='https://github.com/rcung000/SimpleTweets/blob/main/SimpleTweet_InfiniteScroll.gif' title='Infinite Scroll' width=''/>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
